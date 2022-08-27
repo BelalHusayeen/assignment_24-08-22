@@ -1,0 +1,25 @@
+.wrapper{
+
+
+}
+.div_1{
+    width: 50%;
+    height: 200px;
+    background-color:darkgreen;
+    float: left;  
+}
+.div_2{
+    width: 50%;
+    height: 200px;
+    background-color: red;
+    float: right;
+}
+.frame_vedio{
+    width: 500px;
+    height: 300px;
+
+}
+.googlemap{
+    width: 1200px;
+    height: 350px;
+}
